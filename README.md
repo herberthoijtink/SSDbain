@@ -13,6 +13,6 @@ library(bain)
 # Load devtools package for install_github()
 library(devtools)
 
-#get SSDbain from github
+# get SSDbain from github
 install_github("Qianrao-Fu/SSDbain/SSDbain")
 
