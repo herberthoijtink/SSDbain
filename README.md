@@ -1,6 +1,6 @@
 # SSDbain
     
-The SSDbain package computes the sample size for the Bayesian Student's t-test and Bayesian Welch's t-test using bain, which was built under R version 3.1.2.
+The SSDbain package computes the sample size for the Bayesian Student's t-test and Bayesian Welch's t-test using bain, which was built under R version 3.5.2.
 
 # install bain, devtools
 install.packages('bain')
