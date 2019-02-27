@@ -1,0 +1,10 @@
+Package: SSDbain
+Type: Package
+Title: Sample Size Determination Using bain
+Version: 0.1.0
+Authors@R: c(person("Herbert", "Hoijtink", role = "aut"), person("Mirjam", "Moerbeek", role = "aut"), person("Qianrao", "Fu", email = "q.fu@uu.nl", role = c("aut", "cre")))
+Maintainer: Qianrao Fu <q.fu@uu.nl>
+Description: Functions to compute the sample size within Bayesian framework.
+License: GPL
+URL: https://github.com/Qianrao-Fu/SSDbain
+Encoding: UTF-8
